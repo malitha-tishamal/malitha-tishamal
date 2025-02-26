@@ -29,4 +29,3 @@
   [![](https://github-readme-streak-stats.herokuapp.com/?user=malitha-tishamalmalitha-tishamal&theme=material-palenight)](https://github.com/malitha-tishamal)
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malitha-tishamal" alt="malitha-tishamal" /></p>
