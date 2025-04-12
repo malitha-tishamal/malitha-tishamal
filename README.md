@@ -6,8 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malitha-tishamal" alt="malitha-tishamal" /></a> </p>
 <hr>
-
-- 📫 How to reach me **malithatishamal@gmail.com**
+🌱 I’m currently learning .NET Framework , JAVA , C# , OOP , PHP , SQL  <br><br>
+- 📫 How to reach me **<a href = mailto:'malithatishamal@gmail.com'>malithatishamal@gmail.com</a>**
 
 ### Connect with me:
 <p align="left">
