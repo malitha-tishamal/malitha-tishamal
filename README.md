@@ -25,9 +25,9 @@
 <div align="center">
   <h2 align="center" style="margin: 5px 10px;">Github Stats:</h2> 
 
-  [!![malitha-tishamal's Stats](https://github-readme-stats.vercel.app/api?username=malitha-tishamal&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+  ![malitha-tishamal's Stats](https://github-readme-stats.vercel.app/api?username=malitha-tishamal&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
   
-  [!![malitha-tishamal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=malitha-tishamal&theme=tokyonight&hide_border=true)
+  ![malitha-tishamal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=malitha-tishamal&theme=tokyonight&hide_border=true)
   ![malitha-tishamal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malitha-tishamal&theme=dark&show_icons=true&hide_border=true&layout=compact)
 </div>
 
