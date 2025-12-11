@@ -1,6 +1,6 @@
 # Hi 👋, I'm Malitha Tishamal
 
-###  A passionate Full Stack Developer and Web Developer | Full Stack Software Developer (Devops) from Sri Lanka
+###  A passionate 👨‍💻 Full Stack Developer & DevOps | 🤖 Cyber/AI Enthusiast from Sri Lanka
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malitha-tishamal&label=Profile%20views&color=0e75b6&style=flat" alt="malitha-tishamal" /> </p>
 
