@@ -17,16 +17,8 @@
 
 # 📊 GitHub Stats
 
-**📈 Overall GitHub Activity**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malitha-tishamal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-**🔥 Streak & Contributions**  
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=malitha-tishamal&theme=dark&hide_border=false)
 
-**💻 Top Languages Used**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malitha-tishamal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=malitha-tishamal&theme=default&no-frame=false&no-bg=false&margin-w=4)
@@ -42,8 +34,14 @@
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=malitha-tishamal&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
-
 ### 🌐 Visitor Count
-[![Visitor Count](https://visitcount.itsvg.in/api?id=malitha-tishamal&icon=0&color=1)](https://visitcount.itsvg.in)
+<p align="left">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=malitha-tishamal&icon=0&color=1" alt="Visitor Count"/>
+  </a>
+</p>
+
+<!-- Proudly generated with GPRM & GitHub Stats API -->
+
 
 <!-- Proudly generated with GPRM & GitHub Stats API -->
