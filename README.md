@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Malitha Tishamal<br>💻 Full-Stack Developer | DevOps | AI Enthusiast <br>I build scalable and modern web and mobile applications with a focus on performance, usability, and maintainability. Passionate about exploring the latest technologies and creating solutions that make an impact.<br>🔹 Skills: Flutter, Dart, React, Next.js, Node.js, Spring Boot, Kotlin, Git, REST APIs<br>🔹 Interests: Modern web architectures, mobile innovations, AI integrations, and next-gen development trends<br>✨ Always learning. Always building. Always innovating.
+👋 Hi, I'm Malitha Tishamal<br>💻 Full-Stack Developer  |  ⚙️ DevOps  |  🤖 AI Enthusiast <br>I build scalable and modern web and mobile applications with a focus on performance, usability, and maintainability. Passionate about exploring the latest technologies and creating solutions that make an impact.<br>🔹 Skills: Flutter, Dart, React, Next.js, Node.js, Spring Boot, Kotlin, Git, REST APIs<br>🔹 Interests: Modern web architectures, mobile innovations, AI integrations, and next-gen development trends<br>✨ Always learning. Always building. Always innovating.
 
 
 ## 🌐 Connect with Me
